@@ -1,7 +1,13 @@
 # Soul Stealer (Game)
 
-Moved to Google Drive
+>Only the scripts remain &hellip;
+>
+>This project has been archived and removed.
 
-Build: https://drive.google.com/drive/folders/1ykNc1VE9ZGEwSCp6Y_f3TrWaOjtTaNgk?usp=share_link
+<br>
 
-Game Project: https://drive.google.com/drive/folders/1OKjRNZFunfqi7aGuyAifnkiKS2urc0uD?usp=share_link
+Moved to Google Drive (may be unavailable)
+
+[Build](https://drive.google.com/drive/folders/1ykNc1VE9ZGEwSCp6Y_f3TrWaOjtTaNgk?usp=share_link)
+
+[Game Project](https://drive.google.com/drive/folders/1OKjRNZFunfqi7aGuyAifnkiKS2urc0uD?usp=share_link)
